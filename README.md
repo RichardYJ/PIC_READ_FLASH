@@ -1,0 +1,2 @@
+# PIC_READ_FLASH
+PIC_READ_FLASH fw_content[]
